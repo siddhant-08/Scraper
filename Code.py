@@ -12,6 +12,10 @@ year=[]
 email=[]
 research=[]
 
+# data of professor at position number 20 is different from others
+# not included for simplicity
+#no-offence
+
 for prof in parsed_body.xpath('.//td[@class="fcardcls"]'):
 	count=count+1
 	if(count==20):

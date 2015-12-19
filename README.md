@@ -10,4 +10,4 @@ The main content is loaded from a different endpoint via an XHR request. [Here](
 
 Used the xlwt library to import the data to an excel workbook.
 
-Would like to thank stackoverflow user [alecxe](http://stackoverflow.com/users/771848/alecxe) for helping me out.
+Would like to thank SO user [alecxe](http://stackoverflow.com/users/771848/alecxe) for helping me out.
